@@ -100,3 +100,4 @@ Date,Time (UTC),Booster_Version,Launch_Site,Payload,PAYLOAD_MASS__KG_,Orbit,Cust
 21-11-2020,17:17:08,F9 B5B1063.1,VAFB SLC-4E,"Sentinel-6 Michael Freilich, Starlink 15 v1.0 ",1192,LEO,NASA / NOAA / ESA / EUMETSAT,Success,Success
 25-11-2020,02:13:00,F9 B5 B1049.7 ,CCAFS SLC-40,"Starlink 15 v1.0, SpaceX CRS-21",15600,LEO,SpaceX,Success,Success
 06-12-2020,16:17:08,F9 B5 B1058.4 ,KSC LC-39A,SpaceX CRS-21,2972,LEO (ISS),NASA (CRS),Success,Success
+
